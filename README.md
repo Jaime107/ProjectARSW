@@ -140,7 +140,7 @@ contará con dos tipos de usuarios y vistas:
 
 # Autor
 
-* **JAIME MARTINEZ ** - *Initial work* - [VASHIGO](https://github.com/Jaime107/ProjectARSW)
+* **JAIME MARTINEZ ** - *Initial work* - [Jaime107](https://github.com/Jaime107/ProjectARSW)
 
 
 # Licencia
