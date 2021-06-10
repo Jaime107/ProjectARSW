@@ -1,11 +1,5 @@
 # SPRINT 1 Definición del proyecto - Proyecto ARSW - Easy Parking 
 
-# Logo:
-
-<p align="center">
-    <img  src="img/logo.png">
-</p>
-
 # Resumen
 
 Easy Parking - Sistema de gestión de Estacionamiento para Establecimientos
